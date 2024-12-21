@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Guifs100/guifs100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/Guifs100/guifs100/blob/main/header.png)](https://github.dev/Guifs100/guifs100)
+[![MasterHead](https://github.com/Guifs100/guifs100/blob/main/header_oficial.png)](https://github.com/Guifs100)
