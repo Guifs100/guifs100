@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://github.com/Guifs100/guifs100/blob/main/header_oficial.png)](https://github.com/Guifs100)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://rspec.info/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a> <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> </p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guifs100)](https://git.io/streak-stats)
 
