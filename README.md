@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://rspec.info/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a> <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guifs100)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.coma/?user=Guifs100)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guifs100&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
