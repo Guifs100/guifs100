@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.coma/?user=Guifs100)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guifs100&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Guifs100's GitHub stats](https://github-readme-stats.vercel.app/api?username=guifs100&show=prs_merged,prs_merged_percentage&show_icons=true&theme=merko&show_owner=true&line_height=38&card_width=700)
+![Guifs100's GitHub stats](https://github-readme-stats.vercel.app/api?username=guifs100&show=prs_merged,prs_merged_percentage&show_icons=true&theme=merko&show_owner=true&line_height=37)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifs100&layout=donut&langs_count=10)](https://github.com/guifs100/github-readme-stats)
 
 # Contact
